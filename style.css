@@ -9,6 +9,10 @@ body{
   color: var(--cor-texto);
 }
 
+
+.apresentacao{
+  display: flex;
+}
 strong{
   color: var(--cor-destaque);
 }
@@ -19,4 +23,9 @@ a{
   padding: 20px 40px;
   margin: 20px 15px;
   border-radius: 10px;
+}
+
+.foto{
+heigth: 490px;
+
 }
